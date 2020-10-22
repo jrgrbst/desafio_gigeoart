@@ -1,3 +1,31 @@
 .header__banner {
-    width: 100vh;
+    padding: 150px;
+    background-image: url("../images/image-banner.png");
+    background-repeat: no-repeat;
+    background-position: center center; 
+    background-size: 100vw;
+}
+
+.header__autor {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    &__autor__img {
+        display: flex;
+        justify-content: space-between;
+        margin-right: 20px;
+
+    &__autor__desc {
+        display: flex;
+        justify-content: space-between;
+    }
+    }
+}
+
+.header__autor img {
+    display: flex;
+    width: 300px;
+    border-radius: 300px;
 }
