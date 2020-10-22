@@ -13246,6 +13246,12 @@ body {
   font-size: 35px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Users\/jrubi\/Desktop\/Curso\%20Front\%20End\/Clase_15\/desafio_gigeoapp\/assets\/sass\/base\/_typography\.scss}line{font-family:\0000322}}
+.header__autor__desc p {
+  font-weight: 400;
+  font-size: 25px;
+}
+
 @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Users\/jrubi\/Desktop\/Curso\%20Front\%20End\/Clase_15\/desafio_gigeoapp\/assets\/sass\/layout\/_navigation\.scss}line{font-family:\000031}}
 .navbar {
   padding: 20px;
