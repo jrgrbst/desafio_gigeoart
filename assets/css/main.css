@@ -13245,4 +13245,8 @@ body {
   padding: 20px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Users\/jrubi\/Desktop\/Curso\%20Front\%20End\/Clase_15\/desafio_gigeoapp\/assets\/sass\/layout\/_header\.scss}line{font-family:\000031}}
+.header__banner {
+  width: 100vh;
+}
 /*# sourceMappingURL=main.css.map */
