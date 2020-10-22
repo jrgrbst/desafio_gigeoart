@@ -13257,6 +13257,11 @@ body {
   padding: 20px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Users\/jrubi\/Desktop\/Curso\%20Front\%20End\/Clase_15\/desafio_gigeoapp\/assets\/sass\/layout\/_grid\.scss}line{font-family:\000031}}
+.video__item__img img {
+  width: 450px;
+}
+
 @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Users\/jrubi\/Desktop\/Curso\%20Front\%20End\/Clase_15\/desafio_gigeoapp\/assets\/sass\/layout\/_header\.scss}line{font-family:\000031}}
 .header__banner {
   padding: 150px;
@@ -13292,7 +13297,7 @@ body {
   margin-right: 20px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Users\/jrubi\/Desktop\/Curso\%20Front\%20End\/Clase_15\/desafio_gigeoapp\/assets\/sass\/layout\/_header\.scss}line{font-family:\0000320}}
-.header__autor__autor__img__autor__desc {
+.header__autor__autor__desc {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -13300,8 +13305,14 @@ body {
       -ms-flex-pack: justify;
           justify-content: space-between;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Users\/jrubi\/Desktop\/Curso\%20Front\%20End\/Clase_15\/desafio_gigeoapp\/assets\/sass\/layout\/_header\.scss}line{font-family:\0000324}}
+.header__autor__autor__botones {
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+}
 
-@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Users\/jrubi\/Desktop\/Curso\%20Front\%20End\/Clase_15\/desafio_gigeoapp\/assets\/sass\/layout\/_header\.scss}line{font-family:\0000327}}
+@media -sass-debug-info{filename{font-family:file\:\/\/E\:\/Users\/jrubi\/Desktop\/Curso\%20Front\%20End\/Clase_15\/desafio_gigeoapp\/assets\/sass\/layout\/_header\.scss}line{font-family:\0000329}}
 .header__autor img {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -13309,5 +13320,4 @@ body {
   width: 300px;
   border-radius: 300px;
 }
-
 /*# sourceMappingURL=main.css.map */

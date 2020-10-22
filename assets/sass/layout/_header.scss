@@ -16,11 +16,13 @@
         display: flex;
         justify-content: space-between;
         margin-right: 20px;
-
+    }
     &__autor__desc {
         display: flex;
         justify-content: space-between;
     }
+    &__autor__botones {
+        justify-content: end;
     }
 }
 
